@@ -1,6 +1,6 @@
 # Node Dropbox
 
-A simple node.js API client for the Dropbox API.
+A simple node.js API client for Dropbox API v2
 
 ## Installation
 
@@ -68,7 +68,3 @@ The above output will be something like:
 	api.account(function(error, response, body){
 		console.log(body.display_name);
 	});
-
-## Planned Features:
-
-I plan on implementing the Dropbox Core API features(https://www.dropbox.com/developers/core/docs) and revamping the code a little bit to make it integrate with express easily or possibly just make it more friendly to use. Right now, it's not the best, but it works.
