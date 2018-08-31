@@ -1,14 +1,14 @@
 {
   "name": "node-dropbox-v2",
   "description": "A simple Dropbox API v2 client for node.js",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "author": "Nodefried <info@nodefried.com>",
   "keywords": [
     "dropbox",
     "api",
     "node"
   ],
-  "main": "./lib/node_dropbox-v2.js",
+  "main": "./lib/node_dropbox_v2.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/nodefried/node-dropbox-v2"
